@@ -1,0 +1,26 @@
+$date
+	Fri Jul 10 12:03:16 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 1 ! zero $end
+$var integer 32 " errors [31:0] $end
+$scope module dut $end
+$var wire 1 ! zero $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 "
+0!
+$end
+#1
