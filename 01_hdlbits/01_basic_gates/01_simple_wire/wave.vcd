@@ -1,0 +1,40 @@
+$date
+	Mon Jul 13 10:55:31 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 1 ! out $end
+$var reg 1 " in $end
+$var integer 32 # errors [31:0] $end
+$scope module dut $end
+$var wire 1 " in $end
+$var wire 1 ! out $end
+$upscope $end
+$scope task check $end
+$var reg 1 $ expected $end
+$var reg 1 % value $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+b0 #
+0"
+0!
+$end
+#1
+1!
+1"
+1$
+1%
+#2
